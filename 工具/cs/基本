@@ -12,7 +12,7 @@
      sudo su
      cd Server
      ifconfig
-     ./steamserver ip（kali） 密码
+     ./teamserver ip（kali） 密码
  2. client   .bat 文件启动
  3.生成监听器；
  4.木马介绍：windows e（32位 64位 运行在注册表和服务的木马 就算重启也可以再次控制 ）  
