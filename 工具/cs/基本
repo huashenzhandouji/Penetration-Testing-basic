@@ -1,7 +1,7 @@
  集成提权，凭据导出，端口转发，socke代理，office攻击，文件捆绑，钓鱼等，可以调用mimikatz等
    服务端一个（kali）客户端多个，团队协作，内网渗透，apt攻击
 
-使用：chomd 777 teamserver    提升权限：TeamServerImage 和 teamserver
+使用：chmod 777 teamserver    提升权限：TeamServerImage 和 teamserver
  r 4 读取
  w 2 写入
  x 1 执行
